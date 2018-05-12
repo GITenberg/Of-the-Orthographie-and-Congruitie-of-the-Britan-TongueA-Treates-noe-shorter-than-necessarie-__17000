@@ -1,0 +1,36 @@
+_repo: Of-the-Orthographie-and-Congruitie-of-the-Britan-TongueA-Treates-noe-shorter-than-necessarie-__17000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hume, Alexander, schoolmaster
+    alias: Humes, Alexander, schoolmaster
+    gutenberg_agent_id: '7081'
+    url: http://www.gutenberg.org/2009/agents/7081
+  editor:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2005-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Orthography and spelling -- Early works to 1800'
+- !lcc 'PR'
+title: 'Of the Orthographie and Congruitie of the Britan Tongue
+
+  A Treates, noe shorter than necessarie, for the Schooles'
+url: http://www.gutenberg.org/ebooks/17000
